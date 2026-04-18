@@ -1,0 +1,25 @@
+{
+  "overview": "A professional food and vegetable general store website with 6 categories, 600 products, a shopping cart, detailed product pages, search, and intuitive navigation.",
+  "features": [
+    "6 product categories: Fresh Vegetables, Fresh Fruits, Dairy & Eggs, Bakery & Bread, Meat & Poultry, Pantry & Dry Goods",
+    "100 products per category (600 total) with names, prices, descriptions, and images",
+    "Shopping cart with add/remove, quantity controls, and running total",
+    "Product detail pages with hero image, full description, and related products",
+    "Search across all 600 products by name, description, and category",
+    "Breadcrumb navigation and back button on all pages",
+    "Category pages with sorting and pagination",
+    "Mobile-responsive professional design"
+  ],
+  "category": "ecommerce",
+  "tags": [
+    "food",
+    "grocery",
+    "general-store",
+    "shopping-cart",
+    "ecommerce",
+    "vegetables",
+    "fruits",
+    "product-catalog"
+  ],
+  "last_updated": "2026-04-18T06:13:28.448Z"
+}
